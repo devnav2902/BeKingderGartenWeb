@@ -210,7 +210,7 @@ section {
 }
 
 .cangiuamenu,
-.cangiua_menu {
+.cangiua_menu{
     width: 80%;
     margin: auto;
     overflow: auto;
@@ -219,7 +219,6 @@ section {
     display: flex;
     justify-content: space-between;
 }
-
 #right h2 {
     color: black!important;
     padding-top: 20px;
