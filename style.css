@@ -209,11 +209,15 @@ section {
 .two img {
 }
 
-.cangiuamenu {
+.cangiuamenu,
+.cangiua_menu {
     width: 80%;
     margin: auto;
     overflow: auto;
+}
+.cangiua_menu {
     display: flex;
+    justify-content: space-between;
 }
 
 #right h2 {
